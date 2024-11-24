@@ -39,7 +39,9 @@ biomeLookup <- tibble(BIOME_NAME = c("N/A",
                                     "13",
                                     "14"))
 
-sampleMetadata <- read_csv('./data/From_GEE/biomes_pilot_samples.csv') %>% 
+sampleMetadataRaw <- read_csv('./data/From_GEE/biomes_pilot_samples.csv') 
+
+sampleMetadata <- sampleMetadataRaw %>% 
   st_as_sf(coords=c('LONGITUDE','LATITUDE')) %>%
   mutate(biome = factor(first)) %>%
   dplyr::select(REFID = PLOTID, biome)
@@ -60,7 +62,9 @@ sampleMetadata %>%
   geom_sf(aes(color=biomeRecoded))
 
 # Import the verification points from sampling app
-refSamplers <- read_csv('./data/From_samplers/public_arena_pilot_collection - Sheet1.csv') %>%
+refSamplersRaw <- read_csv('./data/From_samplers/public_arena_pilot_collection - Sheet1.csv') 
+
+refSamplers <- refSamplersRaw %>%
   dplyr::select(REFID, reference = verification) %>%
   filter(reference %in% c('yes', 'no'))
 
@@ -88,6 +92,35 @@ refdw %>%
   summarise(n=n()) %>%
   ggplot(aes(x=year, y=n,fill=factor(month))) +
   geom_bar(stat='identity')
+
+#### Quick check to see the metadata distributions ---------------------------------------------
+
+# how much nature loss versus cropland loss
+refSamplersRaw %>%
+  filter(verification == 'yes') %>%
+  drop_na(baseline_land_use) %>%
+  mutate(lossType = ifelse(baseline_land_use == 'cropland', 'cropland loss', 
+                           ifelse(baseline_land_use == 'uncertain', 'uncertain', 'nature loss'))) %>%
+  count(lossType, baseline_land_use) %>%
+  mutate(perc = n/sum(n)*100) %>%
+  ggplot(aes(x=lossType, fill=baseline_land_use, y=perc)) +
+  geom_bar(stat='identity') +
+  coord_flip() +
+  labs(y='Percentage (%)')
+
+# distribution across years
+refSamplersRaw %>%
+  filter(verification == 'yes') %>%
+  ggplot(aes(x=factor(change_year))) +
+  geom_bar()
+
+# distribution across causes
+refSamplersRaw %>%
+  filter(verification == 'yes') %>%
+  count(change_type) %>%
+  ggplot(aes(x=reorder(change_type, n), y=n)) +
+  geom_bar(stat='identity') +
+  coord_flip()
 
 #### Test thresholds x months x biome combinations -----------------------------------------------------------
 
