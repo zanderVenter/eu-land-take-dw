@@ -1,5 +1,4 @@
-# eu-green-to-grey
-Mapping and quantifying expansion of built-up areas over Europe.
+# Mapping and quantifying land take over Europe.
 
 ## Structure
 - `data/`: Stores raw and processed data, as well as GEE exports.
