@@ -1,0 +1,229 @@
+country,stratum,area
+ALB,buffer crop/built stable,44.859514341039976
+ALB,buffer nature stable,76.19164224070603
+ALB,crop/built stable,3256.971465198487
+ALB,cropland loss,22.264328496990252
+ALB,nature loss,36.076935903427305
+ALB,nature stable,24603.62282743199
+AUT,buffer crop/built stable,85.49315401854925
+AUT,buffer nature stable,149.9390998605132
+AUT,crop/built stable,14963.132183112615
+AUT,cropland loss,38.74682382287424
+AUT,nature loss,94.22026438455794
+AUT,nature stable,67786.8844501331
+BEL,buffer crop/built stable,84.35901347202487
+BEL,buffer nature stable,164.8789574322594
+BEL,crop/built stable,11652.99062320662
+BEL,cropland loss,23.292184478831214
+BEL,nature loss,103.79538805915887
+BEL,nature stable,18362.164838904537
+BGR,buffer crop/built stable,60.230097448335954
+BGR,buffer nature stable,192.60870785120875
+BGR,crop/built stable,34077.96448545005
+BGR,cropland loss,14.139635094723602
+BGR,nature loss,113.76358169486791
+BGR,nature stable,75617.56221118833
+BIH,buffer crop/built stable,46.2831949618904
+BIH,buffer nature stable,163.42206760616904
+BIH,crop/built stable,3369.134458782455
+BIH,cropland loss,11.146160535742426
+BIH,nature loss,75.23950877797924
+BIH,nature stable,47262.9199595388
+CHE,buffer crop/built stable,32.93721363546095
+CHE,buffer nature stable,69.83953069292696
+CHE,crop/built stable,5136.789430185921
+CHE,cropland loss,7.498673225671476
+CHE,nature loss,32.42952979272925
+CHE,nature stable,34486.56365775178
+CYP,buffer crop/built stable,3.086884434525703
+CYP,buffer nature stable,1.894040651433249
+CYP,crop/built stable,232.03982246392866
+CYP,cropland loss,1.9482152217973001
+CYP,nature loss,1.2430232102901084
+CYP,nature stable,307.2142973495547
+CZE,buffer crop/built stable,88.65018436878371
+CZE,buffer nature stable,218.17630033129765
+CZE,crop/built stable,28189.47333316787
+CZE,cropland loss,45.19657350946206
+CZE,nature loss,145.8951847301838
+CZE,nature stable,49395.05683454886
+DEU,buffer crop/built stable,467.24725886830777
+DEU,buffer nature stable,774.5997095796182
+DEU,crop/built stable,138683.46946403215
+DEU,cropland loss,238.78792475956138
+DEU,nature loss,503.79938725662595
+DEU,nature stable,211839.49197311274
+DNK,buffer crop/built stable,73.38474373056815
+DNK,buffer nature stable,109.34359305339498
+DNK,crop/built stable,23086.014271702003
+DNK,cropland loss,42.20074125523314
+DNK,nature loss,79.32087868163171
+DNK,nature stable,18845.98741688434
+ESP,buffer crop/built stable,303.8126160241292
+ESP,buffer nature stable,797.8644339785135
+ESP,crop/built stable,119543.92358347647
+ESP,cropland loss,81.43249165510586
+ESP,nature loss,348.1491678618875
+ESP,nature stable,381447.70423023455
+EST,buffer crop/built stable,21.603014964560057
+EST,buffer nature stable,65.51551134293912
+EST,crop/built stable,5873.985507898929
+EST,cropland loss,3.969687336725452
+EST,nature loss,52.25201047105009
+EST,nature stable,37119.88644302542
+FIN,buffer crop/built stable,80.61015453387623
+FIN,buffer nature stable,216.03862109711747
+FIN,crop/built stable,22574.979410291784
+FIN,cropland loss,17.041567143625358
+FIN,nature loss,173.01227267279432
+FIN,nature stable,281240.2807900686
+FRA,buffer crop/built stable,576.3857333142532
+FRA,buffer nature stable,1392.9541706280613
+FRA,crop/built stable,175691.14272582676
+FRA,cropland loss,208.70292640455418
+FRA,nature loss,849.3313221567533
+FRA,nature stable,365092.3819316815
+GBR,buffer crop/built stable,326.1341365482895
+GBR,buffer nature stable,688.3886583193935
+GBR,crop/built stable,60992.529594722466
+GBR,cropland loss,118.11648570813853
+GBR,nature loss,583.361365472246
+GBR,nature stable,177774.63634204076
+GRC,buffer crop/built stable,65.76214464227357
+GRC,buffer nature stable,331.99749257479874
+GRC,crop/built stable,17561.386390483472
+GRC,cropland loss,22.3329458653583
+GRC,nature loss,138.95241321573246
+GRC,nature stable,112035.87544391173
+HRV,buffer crop/built stable,46.41066489500244
+HRV,buffer nature stable,151.57387283622998
+HRV,crop/built stable,10359.596148670653
+HRV,cropland loss,12.889503504017041
+HRV,nature loss,82.14032684148425
+HRV,nature stable,45218.015433181536
+HUN,buffer crop/built stable,78.29005747660831
+HUN,buffer nature stable,222.45695240656133
+HUN,crop/built stable,43995.72782080791
+HUN,cropland loss,34.40903049638998
+HUN,nature loss,157.3761354999803
+HUN,nature stable,47061.14102123806
+IRL,buffer crop/built stable,61.40561869337
+IRL,buffer nature stable,293.11148122929654
+IRL,crop/built stable,5016.915551051518
+IRL,cropland loss,12.834484116469918
+IRL,nature loss,211.7350838448936
+IRL,nature stable,62624.73125288804
+ISL,buffer crop/built stable,2.819212559585661
+ISL,buffer nature stable,36.83895131087476
+ISL,crop/built stable,225.77460584055214
+ISL,cropland loss,0.005299291168212891
+ISL,nature loss,15.129394943737584
+ISL,nature stable,99601.14024726351
+ITA,buffer crop/built stable,424.0851866473182
+ITA,buffer nature stable,1223.0687361425837
+ITA,crop/built stable,76624.96239940057
+ITA,cropland loss,123.68751540881411
+ITA,nature loss,486.4685877990066
+ITA,nature stable,218268.3107755989
+LIE,buffer crop/built stable,0.16672576011657714
+LIE,buffer nature stable,0.4743048083516139
+LIE,crop/built stable,22.394734071063084
+LIE,cropland loss,0.016012192016601562
+LIE,nature loss,0.2852828061863918
+LIE,nature stable,134.89967503395792
+LTU,buffer crop/built stable,38.871699967053495
+LTU,buffer nature stable,114.46503178427231
+LTU,crop/built stable,20656.1465306744
+LTU,cropland loss,12.140414798021505
+LTU,nature loss,100.43576746745369
+LTU,nature stable,42780.34666176412
+LUX,buffer crop/built stable,3.351773551481479
+LUX,buffer nature stable,5.444196365794881
+LUX,crop/built stable,656.7819601013537
+LUX,cropland loss,1.276135786123298
+LUX,nature loss,5.190201593022276
+LUX,nature stable,1914.1936652943607
+LVA,buffer crop/built stable,23.028544358985453
+LVA,buffer nature stable,73.66946883220791
+LVA,crop/built stable,9811.65793645063
+LVA,cropland loss,2.513944582565966
+LVA,nature loss,45.1263191513819
+LVA,nature stable,53452.3806016698
+MKD,buffer crop/built stable,30.805849960193648
+MKD,buffer nature stable,38.2893713608113
+MKD,crop/built stable,3339.312411163938
+MKD,cropland loss,19.060020657920987
+MKD,nature loss,23.203520497810096
+MKD,nature stable,21462.134311169586
+MLT,buffer crop/built stable,7.068547193230992
+MLT,buffer nature stable,11.464975611063789
+MLT,crop/built stable,138.00287909553145
+MLT,cropland loss,1.9454378506240844
+MLT,nature loss,3.924195234145041
+MLT,nature stable,146.00769270147848
+MNE,buffer crop/built stable,5.1129602666518865
+MNE,buffer nature stable,30.133007167655435
+MNE,crop/built stable,220.0341498354478
+MNE,cropland loss,1.5925320176315307
+MNE,nature loss,17.740394511550814
+MNE,nature stable,13318.866601311167
+NLD,buffer crop/built stable,117.82245902813168
+NLD,buffer nature stable,186.93520080838232
+NLD,crop/built stable,12736.6477969558
+NLD,cropland loss,39.146610554934696
+NLD,nature loss,161.878069578494
+NLD,nature stable,20679.052646411612
+NOR,buffer crop/built stable,46.870140846317184
+NOR,buffer nature stable,188.40879408516102
+NOR,crop/built stable,7050.768385345054
+NOR,cropland loss,11.410627237843354
+NOR,nature loss,144.52408881279905
+NOR,nature stable,295181.76198031264
+POL,buffer crop/built stable,701.1797845466432
+POL,buffer nature stable,1302.7574195248005
+POL,crop/built stable,114087.63707068481
+POL,cropland loss,375.52112742742094
+POL,nature loss,976.261021453366
+POL,nature stable,189801.27476893124
+PRT,buffer crop/built stable,84.58771045057621
+PRT,buffer nature stable,295.6545100048121
+PRT,crop/built stable,9898.125343724765
+PRT,cropland loss,13.552630037089749
+PRT,nature loss,154.3082035105675
+PRT,nature stable,80241.25828683744
+ROU,buffer crop/built stable,259.6498753902081
+ROU,buffer nature stable,675.5765474675466
+ROU,crop/built stable,77764.82884059312
+ROU,cropland loss,117.94193522685508
+ROU,nature loss,429.22041825225267
+ROU,nature stable,156001.30240630635
+SRB,buffer crop/built stable,136.4881010968066
+SRB,buffer nature stable,234.92480295864652
+SRB,crop/built stable,28059.07408210557
+SRB,cropland loss,70.46606680104792
+SRB,nature loss,138.1606272890204
+SRB,nature stable,59016.503524689324
+SVK,buffer crop/built stable,35.82207274471223
+SVK,buffer nature stable,98.05864276128494
+SVK,crop/built stable,14366.400407756233
+SVK,cropland loss,24.684276154203644
+SVK,nature loss,72.41429057240622
+SVK,nature stable,34074.09179588142
+SVN,buffer crop/built stable,17.927086090117957
+SVN,buffer nature stable,60.4316233835101
+SVN,crop/built stable,2158.086863964188
+SVN,cropland loss,3.1506682021448174
+SVN,nature loss,28.0010445499667
+SVN,nature stable,17916.24139863112
+SWE,buffer crop/built stable,89.64830386935193
+SWE,buffer nature stable,356.7753130787721
+SWE,crop/built stable,20885.729025410972
+SWE,cropland loss,25.476765063236822
+SWE,nature loss,271.4955101343287
+SWE,nature stable,388469.5934889708
+TUR,buffer crop/built stable,884.0128334882743
+TUR,buffer nature stable,2702.546939401703
+TUR,crop/built stable,173011.01503162997
+TUR,cropland loss,573.6964461507516
+TUR,nature loss,1917.8764597198265
+TUR,nature stable,587026.8016415823
